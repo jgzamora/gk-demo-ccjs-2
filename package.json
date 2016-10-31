@@ -4,7 +4,7 @@
   "author": "Jose Zamora",
   "version": "0.0.1",
   "dependencies": {
-    "lodash": "2.4.2"
+    "lodash": "4.16.5"
   },
   "devDependencies": {
     "simple-test-framework": "^0.1.7",
