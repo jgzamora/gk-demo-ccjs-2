@@ -9,7 +9,7 @@
   "devDependencies": {
     "simple-test-framework": "^0.1.7",
     "mocha": "^3.0.2",
-    "chai": "^3.5.0"
+    "chai": "^4.0.1"
   },
   "scripts": {
     "test": "mocha test.js"
